@@ -1,4 +1,4 @@
-package es.eoi.app;
+package es.eoi.jdbc;
 
 public class StudentManagementMain {
 }
